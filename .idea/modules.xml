@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-01-ioc/spring-01-ioc.iml" filepath="$PROJECT_DIR$/spring-01-ioc/spring-01-ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-02-aop/spring-02-aop.iml" filepath="$PROJECT_DIR$/spring-02-aop/spring-02-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-03-dao/spring-03-dao.iml" filepath="$PROJECT_DIR$/spring-03-dao/spring-03-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-06-boot/spring-06-boot.iml" filepath="$PROJECT_DIR$/spring-06-boot/spring-06-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-framework-learning-code-master.iml" filepath="$PROJECT_DIR$/.idea/spring-framework-learning-code-master.iml" />
+    </modules>
+  </component>
+</project>
